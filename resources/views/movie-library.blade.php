@@ -7,6 +7,6 @@
     <title>Movie Library</title>
 </head>
 <body>
-    
+    @dd($movies);
 </body>
 </html>
